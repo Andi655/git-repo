@@ -1,3 +1,2 @@
 print("Welcome")
-print("whats´up")
-print("whats´up2")
+print("How do you do")
